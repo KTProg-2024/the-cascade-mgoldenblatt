@@ -1,1 +1,40 @@
-
+.shadow {
+  color: green;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+#One{
+  color:purple;
+  text-decoration-color: purple;
+  
+}
+div > p{
+color:blue;
+}
+.First{
+  color: red;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+#Six{
+  text-align: right;
+}
+h2 + p{
+  color: aqua;
+}
+div{
+  background-color: orange;
+  border: solid;
+  border-color: brown; 
+}
+div > h2{
+  color: green;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+div + h2{
+  color: green;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
